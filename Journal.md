@@ -4,12 +4,13 @@ A log of progress, thoughts, and decisions made during the creation of our finan
 
 ---
 
-## 2025-10-20
+## 2025-10-29
 
 - Created the journal file to document ongoing work.
 - Updated README with project summary and company info.
 - Planned to organize repository structure with folders for screenshots and resources.
-
+-I have finished my webpage.
+-I have added the webpage to my linkedin
 ---
 
 ## 2025-10-18

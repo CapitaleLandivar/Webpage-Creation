@@ -1,9 +1,4 @@
 # Webpage-Creation
-This will contain the progress on making our webpage
-This project does not involve any code, therefore we will just attach screenshots of the progress.
-Documentation, unfortunately, started halfway through the making of it.
-
-# Webpage-Creation
 
 This repository documents the progress on making our financial literacy and financial research website for our fictitious company, Capitale Landivar. The project is built using Google Sites and does not involve coding; documentation consists of screenshots and written updates.
 

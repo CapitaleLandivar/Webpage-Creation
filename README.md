@@ -33,22 +33,16 @@ Documentation began halfway through the project. Earlier steps (site planning, i
 
 - [x] Home page completed
 - [x] About us page created
-- [ ] Resources page in progress
-- [ ] Contact form setup
-- [ ] Completed first research document
-- [ ] Send first newsletter
-- [ ] Publish
-      
+- [x] Resources page in progress
+- [x] Contact form setup
+- [x] Completed first research document
+- [x] Send first newsletter
+- [x] Publish
+
+WE DONE!!!!!
 
 ## Screenshots
 
-![Homepage](screenshots/homepage.png)
-![Research Page](screenshots/research.png)
+![Homepage](screenshots)
 
-## Next Steps
 
-- Finish Resources page
-- Add more research articles
-- Final formatting and review
-
----
